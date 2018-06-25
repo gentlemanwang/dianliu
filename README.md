@@ -22,7 +22,6 @@
 ##### ios：
 [APP store下载](https://itunes.apple.com/cn/app/id1383186862)  
 
-
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/ios%20release.png)
 
 ##### 安卓：
@@ -31,11 +30,15 @@
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/Android1.10release.png)
 
 
-#### 测试版
+#### 最新版测试包（更新时间：06/25 18:00）
 ##### ios：
 
-https://itunes.apple.com/cn/app/id1383186862
+[iPhone测试包下载](https://moenest.com/download/ShortVideoWithoutExtension-Debug.ipa)  
+
+![image](https://moenest.com/download/ipa.png)
 
 ##### 安卓：
 
-  v1.10：http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk
+[安卓测试包下载](https://moenest.com/download/youku-shortvideo-prod-debug.apk) 
+
+![image](https://moenest.com/download/apk.png)
