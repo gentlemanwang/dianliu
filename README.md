@@ -20,14 +20,19 @@
 ## 下载地址
 ### 正式版
 ios：https://itunes.apple.com/cn/app/id1383186862
+
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/ios%20release.png)
 
 安卓：
+
 v1.10：http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk
+
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/Android1.10release.png)
 
 
 ###测试版
 ios：https://itunes.apple.com/cn/app/id1383186862
+
 安卓：
+
 v1.10：http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk
