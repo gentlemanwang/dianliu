@@ -8,31 +8,34 @@
 官方意见反馈交流QQ群：213536601
 
 ### 版本记录
-1.1.0
+#### 1.1.0
 2018年6月22日
 1. 增加配音功能，成为最激情、逗比、搞笑、专业的世界杯解说员，为经典视频加入你的创意，期待你的加入；
 2. 加入火爆世界杯贴纸，用贴纸拍小视频为你的主队加油；
 3. 持续修复bug，优化播放性能！
 
-1.0.3
+#### 1.0.3
 2018年6月15日
 
-## 下载地址
-### 正式版
-ios：https://itunes.apple.com/cn/app/id1383186862
+### 下载地址
+#### 正式版
+##### ios：
+[APP store下载](https://itunes.apple.com/cn/app/id1383186862)  
+
 
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/ios%20release.png)
 
-安卓：
-
-  v1.10：http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk
+##### 安卓：
+[安卓v1.10](http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk)  
 
 ![image](https://raw.githubusercontent.com/gentlemanwang/dianliu/master/Android1.10release.png)
 
 
-### 测试版
-ios：https://itunes.apple.com/cn/app/id1383186862
+#### 测试版
+##### ios：
 
-安卓：
+https://itunes.apple.com/cn/app/id1383186862
+
+##### 安卓：
 
   v1.10：http://dianliu.alicdn.com/apk/600000_youku-shortvideo_guanfangqudao_1.1.0.apk
